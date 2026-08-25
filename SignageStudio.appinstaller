@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller Uri="https://github.com/Gartom91/SignageStudio-Releases/releases/latest/download/SignageStudio.appinstaller"
-              Version="1.2.0.2"
+              Version="1.2.0.3"
               xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
   <MainPackage Name="5B757B9C-E104-4553-BA8B-B729DEAF4016"
                Publisher="CN=AppPublisher"
-               Version="1.2.0.2"
+               Version="1.2.0.3"
                ProcessorArchitecture="x64"
                Uri="https://github.com/Gartom91/SignageStudio-Releases/releases/latest/download/SignageStudio-x64.msix" />
   <UpdateSettings>
